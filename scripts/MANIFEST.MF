@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Implementation-Title: Implementor
+Implementation-Vendor: Dmitriev Vladislav (bitree2004@yandex.ru)
+Implementation-Version: 1.0.0
+Class-Path: ../../java-advanced-2024/artifacts/info.kgeorgiy.java.advanced.implementor.jar

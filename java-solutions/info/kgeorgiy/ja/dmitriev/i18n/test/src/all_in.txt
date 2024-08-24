@@ -1,0 +1,16 @@
+May 12, 2019 12:30:07 PM UTC - good morning!
+August 28, 3019 12:30:07 PM UTC - first cup of coffee!
+April 28, 4019 12:30:07 PM UTC - second cup of coffee!
+March 28, 5019 12:30:07 PM UTC - third cup of coffee!
+$2,000.00 - It's fantastic salary!
+$1,000.00 - It's nice prize for your job!
+$500.00 - It's good enough.
+$250.00 - You can live.
+$125.00 - It's minimal salary in USA.
+$62.00 - I WANNA DIE!
+1	Hamilton, Bermuda	130.8	89.4	110.8	145.6	134.0	96.8
+2	New York, NY, United States	100.0	100.0	100.0	100.0	100.0	100.0
+3	Oakland, CA, United States	94.4	61.6	78.5	100.9	104.0	123.1
+4	San Francisco, CA, United States	90.6	83.8	87.3	101.1	83.6	143.1
+5	Honolulu, HI, United States	87.0	52.5	70.3	102.7	73.9	95.2
+6	Boston, MA, United States	84.8	67.2	76.3	96.3	81.0	123.6
